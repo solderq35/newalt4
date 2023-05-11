@@ -1,4 +1,4 @@
-# New Alt 4
+# New Alt F4
 
 Ori13 and ChatGPT's idea to troll IOI for trying to prevent people from cheesing Hitman Freelancer mode
 

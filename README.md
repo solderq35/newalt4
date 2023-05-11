@@ -1,7 +1,8 @@
 # New Alt 4
 
-Ori13's idea to troll IOI for trying to prevent people from cheesing Hitman Freelancer mode
+Ori13 and ChatGPT's idea to troll IOI for trying to prevent people from cheesing Hitman Freelancer mode
 
+## Disclaimer
 **NOTE: It is probably more convenient to just open Task Manager, then stop HITMAN3.exe. This program is just for fun.**
 
 With that said:
@@ -25,3 +26,6 @@ With that said:
 
 ## Usage Instructions
 - When a level is loaded, press CTRL + ALT + Q to force quit without ALT + F4
+
+## Next Steps
+- You can include this with a [batch file](https://github.com/solderq35/hitman-tech-tips/blob/main/misc/h3legendary.md#batch-files) to launch the game, especially if you have Legendary (there is probably Steam CLI equivalent), which might end up being more convenient than Task Manager at that point idk.
